@@ -14,14 +14,14 @@ const projects = [
     demo: "#",
   },
   {
-    name: "TICKET BOOKING SYSTEM",
+    name: "CINEBOOK",
     desc: "A highly scalable backend system designed to manage large-scale ticket reservations. Built to handle high concurrency — resolving race conditions when thousands of users try to book the same seat for a popular event.",
     tech: ["JAVA", "SPRING BOOT", "POSTGRESQL/MYSQL", "REDIS", "KAFKA", "DOCKER"],
     shadow: "shadow-neo-azure",
     border: "border-azure",
     hoverShadow: "hover:shadow-[7px_7px_0_#4DA3FF]",
     filled: true,
-    github: "https://github.com/akshita777",
+    github: "https://github.com/akshita777/CineBook",
     demo: "#",
   },
   {
