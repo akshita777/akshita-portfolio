@@ -11,7 +11,7 @@ const projects = [
     hoverShadow: "hover:shadow-[7px_7px_0_#DFFF00]",
     filled: true,
     github: "https://github.com/akshita777/UPI-Mesh",
-    demo: "#",
+    demo: "https://drive.google.com/file/d/1I7UWbPsJUM9P7hd03PouCEsKehR4ENPI/view?usp=sharing",
   },
   {
     name: "CINEBOOK",
