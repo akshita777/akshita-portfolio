@@ -22,7 +22,7 @@ const projects = [
     hoverShadow: "hover:shadow-[7px_7px_0_#4DA3FF]",
     filled: true,
     github: "https://github.com/akshita777/CineBook",
-    demo: "#",
+    demo: "https://drive.google.com/file/d/1Vtfa4Ei1YK9xRn-NNhLI2TfOVCs-w_1S/view?usp=sharing",
   },
   {
     name: "IIPS REPOSITORY SYSTEM",
